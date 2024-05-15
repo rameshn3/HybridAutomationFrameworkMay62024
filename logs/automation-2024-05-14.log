@@ -1,0 +1,463 @@
+17:39:50.135 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:39:52.853 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:39:57.873 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:40:00.771 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the my account page title
+17:40:00.790 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:40:01.078 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:40:01.079 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:MacBook
+17:40:01.156 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c20a4254952ecf287c7f2fa822ecc43e)] -> css selector:  input[placeholder='Search']]
+17:40:04.295 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:40:04.317 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - MacBook
+17:40:04.345 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:40:19.261 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:40:19.261 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:iMac
+17:40:19.320 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c20a4254952ecf287c7f2fa822ecc43e)] -> css selector:  input[placeholder='Search']]
+17:40:22.304 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:40:22.312 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - iMac
+17:40:22.335 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:40:37.045 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:40:37.045 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Samsung
+17:40:37.104 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c20a4254952ecf287c7f2fa822ecc43e)] -> css selector:  input[placeholder='Search']]
+17:40:40.312 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:40:40.331 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - Samsung
+17:40:40.344 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:43:51.399 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:43:51.428 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:43:51.434 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:43:51.610 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:43:54.088 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Initilizing the page classe objects
+17:43:54.219 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - navigate to login page
+17:43:54.219 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:43:56.598 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:43:59.496 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:44:04.876 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:44:08.081 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the my account page title
+17:44:08.116 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:44:08.613 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:44:08.613 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:MacBook
+17:44:08.734 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c3238ebe547c486628054e6149345bcb)] -> css selector:  input[placeholder='Search']]
+17:44:12.229 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:44:12.264 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - MacBook
+17:44:12.305 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:44:27.396 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:44:27.397 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:iMac
+17:44:27.485 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c3238ebe547c486628054e6149345bcb)] -> css selector:  input[placeholder='Search']]
+17:44:30.765 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:44:30.797 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - iMac
+17:44:30.832 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:44:45.813 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:44:45.814 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Samsung
+17:44:45.904 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (c3238ebe547c486628054e6149345bcb)] -> css selector:  input[placeholder='Search']]
+17:44:49.443 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:44:49.464 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - Samsung
+17:44:49.487 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:47:03.432 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Creating Object for Faker class
+17:47:07.843 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:47:07.873 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:47:07.881 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:47:08.045 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:47:10.313 [main] INFO  com.qa.opencart.testcases.HomePageTest - Initilizing the page classe objects
+17:47:10.663 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the logo element
+17:47:10.663 [main] INFO  com.qa.opencart.pages.HomePage - checking the logo in home page
+17:47:10.788 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (72f309f7467a208645effafda2ee3f94)] -> id: logo]
+17:47:11.077 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:11.109 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the opencart page title
+17:47:11.120 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:11.360 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:11.379 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verifying the featiured section cards count
+17:47:11.379 [main] INFO  com.qa.opencart.pages.HomePage - Fetching Featured section cards count
+17:47:11.625 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:11.642 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate to registration page
+17:47:11.642 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:47:13.889 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:47:16.820 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the Registration page title
+17:47:16.839 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:47:16.840 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate back to home page
+17:47:16.840 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on breadcrumb home icon
+17:47:20.000 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:20.034 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate to login page
+17:47:20.034 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:47:22.322 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:47:25.071 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the Login page title
+17:47:25.089 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+17:47:25.089 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate back to home page
+17:47:25.089 [main] INFO  com.qa.opencart.pages.LoginPage - click on breadcrumb homeicon
+17:47:28.201 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:47:30.447 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:47:30.501 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:47:30.504 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:47:30.649 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:47:33.188 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Initilizing the page classe objects
+17:47:33.200 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate to login page
+17:47:33.201 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:47:35.547 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:47:38.237 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the login page url test
+17:47:38.603 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the login page title Test
+17:47:38.615 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+17:47:38.861 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verifying the login page elements
+17:47:38.918 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (713b03b1e3be90e3ce5fd358b384b66c)] -> xpath: //h2[normalize-space()='New Customer']]
+17:47:38.990 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (713b03b1e3be90e3ce5fd358b384b66c)] -> xpath: //h2[normalize-space()='Returning Customer']]
+17:47:39.048 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (713b03b1e3be90e3ce5fd358b384b66c)] -> xpath: //ul[@class='breadcrumb']//a[normalize-space()='Login']]
+17:47:39.330 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate to registration page from login page
+17:47:39.330 [main] INFO  com.qa.opencart.pages.LoginPage - click on New Customer continue button
+17:47:42.195 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the Registration page title
+17:47:42.216 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:47:42.216 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate back to Login page
+17:47:42.216 [main] INFO  com.qa.opencart.pages.RegistrationPage - click LoginPage Link
+17:47:45.241 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate to Forgot Password Page
+17:47:45.241 [main] INFO  com.qa.opencart.pages.LoginPage - click on forgot password link
+17:47:48.041 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the forgot password page title
+17:47:48.059 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Forgot Your Password?
+17:47:48.059 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate back to login page
+17:47:48.059 [main] INFO  com.qa.opencart.pages.ForgotPasswordPage - click on Back button
+17:47:51.013 [main] INFO  com.qa.opencart.testcases.LoginPageTest - provide empty creds 
+17:47:51.014 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:47:55.661 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:47:58.286 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the empty creds error message
+17:48:02.934 [main] INFO  com.qa.opencart.testcases.LoginPageTest - TC_07_Happypath login test
+17:48:02.934 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:48:07.663 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:48:10.583 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the my account page title
+17:48:10.600 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:48:10.898 [main] INFO  com.qa.opencart.testcases.LoginPageTest - TC_08_logout test
+17:48:10.898 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:48:13.983 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the logout page title
+17:48:14.010 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:48:14.010 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:48:16.910 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:48:19.806 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:48:19.885 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:48:19.890 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:48:20.066 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:48:22.450 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Initilizing the page classe objects
+17:48:22.459 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - navigate to login page
+17:48:22.459 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:48:24.713 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:48:27.337 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:48:32.142 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:48:34.988 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the my account page title
+17:48:35.016 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:48:35.031 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the MyAccount page url test
+17:48:35.366 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the  my account page title Test
+17:48:35.383 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:48:35.596 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verifying the MyAccount page elements
+17:48:35.667 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (22b9420b012ecd745709ad7be3cba352)] -> css selector:  input[placeholder='Search']]
+17:48:35.667 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on My Account menu link
+17:48:37.953 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (22b9420b012ecd745709ad7be3cba352)] -> link text: Logout]
+17:48:38.229 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_04_Verify My account options List
+17:48:38.229 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on My Account menu link
+17:48:40.797 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_04_Verify My account options List
+17:48:41.110 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify the broken links in my account page
+17:50:12.423 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:50:12.423 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:MacBook
+17:50:12.509 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (22b9420b012ecd745709ad7be3cba352)] -> css selector:  input[placeholder='Search']]
+17:50:16.059 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:50:16.083 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - MacBook
+17:50:16.121 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:50:31.040 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:50:31.040 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:iMac
+17:50:31.114 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (22b9420b012ecd745709ad7be3cba352)] -> css selector:  input[placeholder='Search']]
+17:50:34.304 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:50:34.314 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - iMac
+17:50:34.336 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:50:49.254 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_07_Perform the product search
+17:50:49.254 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Samsung
+17:50:49.348 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (22b9420b012ecd745709ad7be3cba352)] -> css selector:  input[placeholder='Search']]
+17:50:52.517 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - Verify Results page title
+17:50:52.535 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Search - Samsung
+17:50:52.555 [main] INFO  com.qa.opencart.pages.ResultsPage - click on my account menu
+17:51:07.362 [main] INFO  com.qa.opencart.testcases.MyAccountPageTest - TC_08_logout test
+17:51:07.362 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:52:41.394 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:52:41.420 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:52:41.425 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:52:41.561 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:52:43.984 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Initilizing the page class objects
+17:52:43.990 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - navigate to registration page
+17:52:43.991 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:52:46.319 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:52:49.211 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the registration page title
+17:52:49.224 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:52:49.230 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Register an account with faker class data test
+17:52:49.230 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering personal details
+17:52:49.230 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the first name value
+17:52:51.590 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the last name value
+17:52:53.933 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the email value
+17:52:56.269 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the telephone value
+17:52:58.560 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering address details
+17:52:58.560 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - setting the password 
+17:52:58.562 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the password value:
+17:53:00.863 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the email value:
+17:53:03.205 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - selecting the subscribe option yes
+17:53:03.205 [main] INFO  com.qa.opencart.pages.RegistrationPage - select newsletter subscription value
+17:53:03.205 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select Yes radio button
+17:53:05.456 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - check the privacy policy checkbox
+17:53:05.456 [main] INFO  com.qa.opencart.pages.RegistrationPage - check Agree checkbox
+17:53:05.518 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element  is already selected:[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:53:09.785 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is checked::[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:53:09.785 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on Continue button in registration page
+17:53:09.785 [main] INFO  com.qa.opencart.pages.RegistrationPage - click Continue button
+17:53:12.963 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the Account creation Success message and header text
+17:53:17.242 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Account Created Continue button
+17:53:17.242 [main] INFO  com.qa.opencart.pages.RegistrationPage - clicking on accntCreatedContinueBtn
+17:53:19.917 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - wait for the my account page
+17:53:20.267 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify my account page title
+17:53:20.284 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:53:20.285 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on logout link
+17:53:20.285 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:53:23.245 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:53:23.246 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Continue button in Logout page
+17:53:23.246 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:53:26.101 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:53:27.513 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - navigate to registration page
+17:53:27.514 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:53:29.692 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:53:32.424 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the registration page title
+17:53:32.431 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:53:32.441 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Register an account with Excel data
+17:53:32.441 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering personal details
+17:53:32.441 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the first name value
+17:53:34.798 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the last name value
+17:53:37.129 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the email value
+17:53:39.467 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the telephone value
+17:53:41.828 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering address details
+17:53:41.828 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - setting the password 
+17:53:41.828 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the password value:
+17:53:44.127 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the email value:
+17:53:46.455 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - selecting the subscribe option yes
+17:53:46.455 [main] INFO  com.qa.opencart.pages.RegistrationPage - select newsletter subscription value
+17:53:46.456 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select Yes radio button
+17:53:48.687 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - check the privacy policy checkbox
+17:53:48.688 [main] INFO  com.qa.opencart.pages.RegistrationPage - check Agree checkbox
+17:53:48.734 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element  is already selected:[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:53:53.028 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is checked::[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:53:53.028 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on Continue button in registration page
+17:53:53.028 [main] INFO  com.qa.opencart.pages.RegistrationPage - click Continue button
+17:53:56.349 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the Account creation Success message and header text
+17:54:00.615 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Account Created Continue button
+17:54:00.615 [main] INFO  com.qa.opencart.pages.RegistrationPage - clicking on accntCreatedContinueBtn
+17:54:03.424 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - wait for the my account page
+17:54:03.767 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify my account page title
+17:54:03.777 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:54:03.778 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on logout link
+17:54:03.778 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:54:06.924 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:54:06.924 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Continue button in Logout page
+17:54:06.924 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:54:09.663 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:54:09.666 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - navigate to registration page
+17:54:09.666 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:54:11.881 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:54:14.519 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the registration page title
+17:54:14.545 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:54:14.550 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Register an account with Excel data
+17:54:14.550 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering personal details
+17:54:14.550 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the first name value
+17:54:16.824 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the last name value
+17:54:19.116 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the email value
+17:54:21.391 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the telephone value
+17:54:23.724 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering address details
+17:54:23.724 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - setting the password 
+17:54:23.724 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the password value:
+17:54:26.098 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the email value:
+17:54:28.493 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - selecting the subscribe option yes
+17:54:28.493 [main] INFO  com.qa.opencart.pages.RegistrationPage - select newsletter subscription value
+17:54:28.493 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select No radio button
+17:54:30.717 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - check the privacy policy checkbox
+17:54:30.717 [main] INFO  com.qa.opencart.pages.RegistrationPage - check Agree checkbox
+17:54:30.765 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element  is already selected:[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:54:35.080 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is checked::[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:54:35.080 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on Continue button in registration page
+17:54:35.080 [main] INFO  com.qa.opencart.pages.RegistrationPage - click Continue button
+17:54:38.247 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the Account creation Success message and header text
+17:54:42.518 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Account Created Continue button
+17:54:42.518 [main] INFO  com.qa.opencart.pages.RegistrationPage - clicking on accntCreatedContinueBtn
+17:54:45.192 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - wait for the my account page
+17:54:45.533 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify my account page title
+17:54:45.546 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:54:45.546 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on logout link
+17:54:45.546 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:54:48.575 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:54:48.575 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Continue button in Logout page
+17:54:48.575 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:54:51.368 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:54:51.375 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - navigate to registration page
+17:54:51.375 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:54:53.595 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:54:56.228 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the registration page title
+17:54:56.240 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:54:56.247 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Register an account with Excel data
+17:54:56.248 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering personal details
+17:54:56.248 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the first name value
+17:54:58.542 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the last name value
+17:55:00.850 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the email value
+17:55:03.196 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the telephone value
+17:55:05.525 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering address details
+17:55:05.525 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - setting the password 
+17:55:05.525 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the password value:
+17:55:07.885 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the email value:
+17:55:10.134 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - selecting the subscribe option yes
+17:55:10.134 [main] INFO  com.qa.opencart.pages.RegistrationPage - select newsletter subscription value
+17:55:10.134 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select Yes radio button
+17:55:12.362 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - check the privacy policy checkbox
+17:55:12.362 [main] INFO  com.qa.opencart.pages.RegistrationPage - check Agree checkbox
+17:55:12.411 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element  is already selected:[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:55:16.735 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is checked::[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:55:16.735 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on Continue button in registration page
+17:55:16.735 [main] INFO  com.qa.opencart.pages.RegistrationPage - click Continue button
+17:55:19.883 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the Account creation Success message and header text
+17:55:24.173 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Account Created Continue button
+17:55:24.173 [main] INFO  com.qa.opencart.pages.RegistrationPage - clicking on accntCreatedContinueBtn
+17:55:26.848 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - wait for the my account page
+17:55:27.183 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify my account page title
+17:55:27.198 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:55:27.198 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on logout link
+17:55:27.198 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:55:30.296 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:55:30.296 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Continue button in Logout page
+17:55:30.296 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:55:33.010 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:55:33.014 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - navigate to registration page
+17:55:33.014 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:55:35.219 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+17:55:37.999 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the registration page title
+17:55:38.012 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+17:55:38.019 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Register an account with Excel data
+17:55:38.019 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering personal details
+17:55:38.019 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the first name value
+17:55:40.364 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the last name value
+17:55:42.691 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the email value
+17:55:45.028 [main] INFO  com.qa.opencart.pages.RegistrationPage - Type the telephone value
+17:55:47.354 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Entering address details
+17:55:47.354 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - setting the password 
+17:55:47.354 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the password value:
+17:55:49.687 [main] INFO  com.qa.opencart.pages.RegistrationPage - Enter the email value:
+17:55:52.047 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - selecting the subscribe option yes
+17:55:52.047 [main] INFO  com.qa.opencart.pages.RegistrationPage - select newsletter subscription value
+17:55:52.047 [main] INFO  com.qa.opencart.pages.RegistrationPage - Select No radio button
+17:55:54.307 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - check the privacy policy checkbox
+17:55:54.307 [main] INFO  com.qa.opencart.pages.RegistrationPage - check Agree checkbox
+17:55:54.360 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element  is already selected:[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:55:58.686 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is checked::[[ChromeDriver: chrome on windows (3ee9215a09c0f0b288c5203d9b739d18)] -> css selector: input[value='1'][name='agree']]
+17:55:58.686 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on Continue button in registration page
+17:55:58.686 [main] INFO  com.qa.opencart.pages.RegistrationPage - click Continue button
+17:56:01.991 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify the Account creation Success message and header text
+17:56:06.282 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Account Created Continue button
+17:56:06.282 [main] INFO  com.qa.opencart.pages.RegistrationPage - clicking on accntCreatedContinueBtn
+17:56:08.988 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - wait for the my account page
+17:56:09.235 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Verify my account page title
+17:56:09.256 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: My Account
+17:56:09.256 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - click on logout link
+17:56:09.256 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:56:12.308 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Logout
+17:56:12.309 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Click on Continue button in Logout page
+17:56:12.309 [main] INFO  com.qa.opencart.pages.LogoutPage - click on continue btn in logout page
+17:56:15.007 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+17:56:17.266 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:56:17.301 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:56:17.309 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:56:17.455 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+17:56:19.883 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Initilizing the page class objects
+17:56:19.902 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+17:56:22.153 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+17:56:24.759 [main] INFO  com.qa.opencart.pages.LoginPage - Performing the login operation
+17:56:29.435 [main] INFO  com.qa.opencart.pages.LoginPage - click on login Button
+17:56:32.327 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:56:32.327 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Macbook
+17:56:32.384 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:56:35.402 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:56:45.464 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - fetch the product image count for particular searched product
+17:56:45.734 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:56:45.734 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Macbook
+17:56:45.792 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:56:48.523 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:56:58.433 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - fetch the product image count for particular searched product
+17:56:58.739 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:56:58.740 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:iMac
+17:56:58.792 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:57:01.794 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:57:11.710 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - fetch the product image count for particular searched product
+17:57:11.992 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:57:11.992 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Samsung
+17:57:12.048 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:57:15.118 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:57:24.973 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - fetch the product image count for particular searched product
+17:57:25.302 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:57:25.303 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:Apple
+17:57:25.371 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:57:28.437 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:57:38.462 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - fetch the product image count for particular searched product
+17:57:38.766 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - Perform product search in MyAccountPage 
+17:57:38.766 [main] INFO  com.qa.opencart.pages.MyAccountPage - searching for the product:MacBook
+17:57:38.839 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (b6a2afea52643d7e27b6cda8d2ea220d)] -> css selector:  input[placeholder='Search']]
+17:57:41.713 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - select product name in search results page
+17:57:51.419 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Product metadata count is:4
+17:57:51.467 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - split the metatext based on :
+17:57:51.467 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - fetch meta key and value
+17:57:51.467 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Store meta key and value in the map
+17:57:51.482 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - split the metatext based on :
+17:57:51.483 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - fetch meta key and value
+17:57:51.483 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Store meta key and value in the map
+17:57:51.502 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - split the metatext based on :
+17:57:51.503 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - fetch meta key and value
+17:57:51.503 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Store meta key and value in the map
+17:57:51.515 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - split the metatext based on :
+17:57:51.515 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - fetch meta key and value
+17:57:51.516 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Store meta key and value in the map
+17:57:51.534 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - Product meta price count is:2
+17:57:51.600 [main] INFO  com.qa.opencart.pages.ProductDetailsPage - store the price values in the map
+17:57:51.874 [main] INFO  com.qa.opencart.testcases.ProductDetailsPageTest - click on logout link
+17:57:51.875 [main] INFO  com.qa.opencart.pages.MyAccountPage - click on Logout link
+17:59:55.007 [main] INFO  com.qa.opencart.testcases.RegistrationPageTest - Creating Object for Faker class
+17:59:59.497 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+17:59:59.520 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+17:59:59.530 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+17:59:59.704 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:00:02.102 [main] INFO  com.qa.opencart.testcases.HomePageTest - Initilizing the page classe objects
+18:00:02.435 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the logo element
+18:00:02.435 [main] INFO  com.qa.opencart.pages.HomePage - checking the logo in home page
+18:00:02.517 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (8e3357a5dee0e3873199338674fed2c0)] -> id: logo]
+18:00:02.830 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:02.849 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the opencart page title
+18:00:02.872 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:03.122 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:03.145 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verifying the featiured section cards count
+18:00:03.145 [main] INFO  com.qa.opencart.pages.HomePage - Fetching Featured section cards count
+18:00:03.425 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:03.444 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate to registration page
+18:00:03.445 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+18:00:05.664 [main] INFO  com.qa.opencart.pages.HomePage - click on register link
+18:00:08.552 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the Registration page title
+18:00:08.566 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:00:08.566 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate back to home page
+18:00:08.567 [main] INFO  com.qa.opencart.pages.RegistrationPage - click on breadcrumb home icon
+18:00:11.607 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:11.630 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate to login page
+18:00:11.631 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+18:00:13.846 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:00:16.529 [main] INFO  com.qa.opencart.testcases.HomePageTest - Verify the Login page title
+18:00:16.547 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+18:00:16.547 [main] INFO  com.qa.opencart.testcases.HomePageTest - navigate back to home page
+18:00:16.548 [main] INFO  com.qa.opencart.pages.LoginPage - click on breadcrumb homeicon
+18:00:19.543 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Your Store
+18:00:22.334 [main] INFO  com.qa.opencart.factory.WebDriverFactory - clear the cache/cookies 
+18:00:22.372 [main] INFO  com.qa.opencart.factory.WebDriverFactory - adding implicit wait 
+18:00:22.376 [main] INFO  com.qa.opencart.factory.WebDriverFactory - maximize the window
+18:00:22.504 [main] INFO  com.qa.opencart.factory.TestBase - create object for WebDriverWait class
+18:00:24.994 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Initilizing the page classe objects
+18:00:25.014 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate to login page
+18:00:25.014 [main] INFO  com.qa.opencart.pages.HomePage - Opening my account menu
+18:00:27.254 [main] INFO  com.qa.opencart.pages.HomePage - click on Login link
+18:00:29.910 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the login page url test
+18:00:30.161 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the login page title Test
+18:00:30.174 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Account Login
+18:00:30.363 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verifying the login page elements
+18:00:30.442 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (3af6b335e6bea19f86e99f941936b5ba)] -> xpath: //h2[normalize-space()='New Customer']]
+18:00:30.508 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (3af6b335e6bea19f86e99f941936b5ba)] -> xpath: //h2[normalize-space()='Returning Customer']]
+18:00:30.567 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Element is displayed::[[ChromeDriver: chrome on windows (3af6b335e6bea19f86e99f941936b5ba)] -> xpath: //ul[@class='breadcrumb']//a[normalize-space()='Login']]
+18:00:30.796 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate to registration page from login page
+18:00:30.796 [main] INFO  com.qa.opencart.pages.LoginPage - click on New Customer continue button
+18:00:33.719 [main] INFO  com.qa.opencart.testcases.LoginPageTest - Verify the Registration page title
+18:00:33.739 [main] INFO  com.qa.opencart.utils.WebDriverUtils - Title of the page is :: Register Account
+18:00:33.739 [main] INFO  com.qa.opencart.testcases.LoginPageTest - navigate back to Login page
+18:00:33.739 [main] INFO  com.qa.opencart.pages.RegistrationPage - click LoginPage Link
